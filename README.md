@@ -28,7 +28,3 @@ Get FAQs in Hindi:
 curl http://localhost:8000/api/faqs/?lang=hi
 Get FAQs in Bengali:
 curl http://localhost:8000/api/faqs/?lang=bn
-Features
-
-WYSIWYG Editor Support: FAQs' answers are editable using django-ckeditor, enabling rich text formatting.
-Multilingual Support: Automatic translations of FAQs' questions and answers using 
